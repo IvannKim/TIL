@@ -3,13 +3,6 @@ Pose guid
 https://github.com/tensorflow/tfjs-models/tree/master/posenet
 
 
-
-
-
-
-
-
-
 ## fancy hair (m)@@@@
 
 맞는 디자이너를 만나기 힘들다. 
@@ -26,7 +19,7 @@ https://github.com/tensorflow/tfjs-models/tree/master/posenet
 
 ## 배달 실시간 위치 (m)
 
-## :bike: ​쏘바이크 (m)
+## :bike: ​​​​쏘바이크 (m)
 
 ## 선빵(SMMM) (m)@@@@
 
